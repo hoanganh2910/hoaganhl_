@@ -1,0 +1,1 @@
+We added training process, the losses graph when retraining model, we also discuss about the implementation, the code to build the GAN network and Loss function, and we modified the slide.
